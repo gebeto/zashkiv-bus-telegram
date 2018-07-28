@@ -1,0 +1,1985 @@
+﻿{
+	"status": true,
+	"data": [{
+		"coordinates": {
+			"lat": "51.558080",
+			"lng": " 23.642972"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "belorussia",
+			"type": "car",
+			"name": "Пулемець-Томашівка"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "1"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.820256",
+			"lng": "24.322444"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "belorussia",
+			"type": "car",
+			"name": "Доманове - Мокрани"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "2"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.900677",
+			"lng": "25.511390"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "belorussia",
+			"type": "car",
+			"name": "Дольськ - Мохро"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "3"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.629105",
+			"lng": "24.251791"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "belorussia",
+			"type": "train",
+			"name": "Заболоття - Хотислав"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "71"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.747612",
+			"lng": "26.750787"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "belorussia",
+			"type": "train",
+			"name": "Удрицьк - Горинь"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "73"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.512154",
+			"lng": "30.638083"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "belorussia",
+			"type": "train",
+			"name": "Неданчичі-Іолча"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "77"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.351794",
+			"lng": "30.896244"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "ukraina",
+			"type": "plane",
+			"name": "Бориспіль"
+		},
+		"data": {
+			"color": "green",
+			"type": "plane",
+			"id": "65"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.565477",
+			"lng": "29.039182"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "belorussia",
+			"type": "train",
+			"name": "Виступовичі - Словечно"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "76"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.517171",
+			"lng": "28.986252"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "belorussia",
+			"type": "car",
+			"name": "Виступовичі - Нова Рудня"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "5"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.818930",
+			"lng": "26.690212"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "belorussia",
+			"type": "car",
+			"name": "Gorodishche - Verhniy-Terebezhiv"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "4"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.844809",
+			"lng": "24.334892"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "poland",
+			"type": "train",
+			"name": "Володимир-Волинський - Хрубешув"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "70"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.578315",
+			"lng": "24.091082"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "poland",
+			"type": "car",
+			"name": "Угринів - Долгобичув"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "61"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.856037",
+			"lng": "24.143464"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "poland",
+			"type": "car",
+			"name": "Устилуг - Зосін"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "62"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.187905",
+			"lng": "23.809646"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "poland",
+			"type": "train",
+			"name": "Ягодин - Дорогуськ"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "114"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.096922",
+			"lng": "23.279205 "
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "poland",
+			"type": "car",
+			"name": "Грушів - Будомєж"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "60"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.274425",
+			"lng": "23.588896"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "poland",
+			"type": "car",
+			"name": "Рава-Руська - Хребенне"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "59"
+		}
+	}, {
+		"coordinates": {
+			"lat": "49.798960",
+			"lng": "22.949934"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "poland",
+			"type": "train",
+			"name": "Мостиська - Пшемисль"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "113"
+		}
+	}, {
+		"coordinates": {
+			"lat": "49.954428",
+			"lng": "23.116649"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "poland",
+			"type": "car",
+			"name": "Краківець - Корчова"
+		},
+		"data": {
+			"color": "red",
+			"type": "car",
+			"id": "63"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.233429",
+			"lng": "23.558162 "
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "poland",
+			"type": "train",
+			"name": "Рава-Руська - Верхрата"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "112"
+		}
+	}, {
+		"coordinates": {
+			"lat": "49.799853",
+			"lng": "22.950834"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "poland",
+			"type": "car",
+			"name": "Шегині - Медика"
+		},
+		"data": {
+			"color": "red",
+			"type": "car",
+			"id": "64"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.653758",
+			"lng": "22.265759"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "slovakia",
+			"type": "car",
+			"name": "Ужгород - Вишнє-Нємецьке"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "56"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.418446",
+			"lng": "22.170713"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "hungary",
+			"type": "car",
+			"name": "Чоп (Тиса) - Захонь"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "55"
+		}
+	}, {
+		"coordinates": {
+			"lat": "49.481184",
+			"lng": "22.701526"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "poland",
+			"type": "car",
+			"name": "Smilnytsia - Krostsenko "
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "58"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.904542",
+			"lng": "34.799106"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Сумський прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "147"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.864215",
+			"lng": "22.440907"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "slovakia",
+			"type": "car",
+			"name": "Малий Березний - Убля"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "57"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.431847",
+			"lng": " 22.208586"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "slovakia",
+			"type": "train",
+			"name": "Чоп(Страж)-Чієрна над Тисою"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "110"
+		}
+	}, {
+		"coordinates": {
+			"lat": "47.940738",
+			"lng": "23.874075"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "romania",
+			"type": "car",
+			"name": "Солотвино-Сігету Мармацієй"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "51"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.018042",
+			"lng": "25.964562"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "romania",
+			"type": "train",
+			"name": "Вадул-Сірет-Вікшани"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "106"
+		}
+	}, {
+		"coordinates": {
+			"lat": "49.604801",
+			"lng": "39.706701"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "russia",
+			"type": "car",
+			"name": "Просяне - Бугайовка"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "31"
+		}
+	}, {
+		"coordinates": {
+			"lat": "49.798551",
+			"lng": "38.958661"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "russia",
+			"type": "car",
+			"name": "Танюшівка - Ровеньки"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "29"
+		}
+	}, {
+		"coordinates": {
+			"lat": "49.974430",
+			"lng": " 38.231541"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "russia",
+			"type": "train",
+			"name": "Лантратівка-Роз‘їзд Вистріл"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "90"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.344987",
+			"lng": "36.920204"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "russia",
+			"type": "car",
+			"name": "Pletynivka - Shebekino"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "23"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.299131",
+			"lng": "36.298708"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "russia",
+			"type": "car",
+			"name": "Гоптівка - Нехотєєвка"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "22"
+		}
+	}, {
+		"coordinates": {
+			"lat": "49.959843",
+			"lng": "37.909401"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "russia",
+			"type": "train",
+			"name": "Тополі - Валуйки"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "88"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.429707",
+			"lng": "35.582148"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "russia",
+			"type": "car",
+			"name": "Велика Писарівка - Грайворон"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "21"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.169354",
+			"lng": " 35.132584"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "russia",
+			"type": "car",
+			"name": "Юнаківка - Суджа"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "19"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.335425",
+			"lng": "36.196238"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "russia",
+			"type": "train",
+			"name": "Козача Лопань - Долбіно"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "85"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.874388",
+			"lng": "34.320874"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "russia",
+			"type": "car",
+			"name": "Бачівськ - Троєбортне"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "17"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.648650",
+			"lng": "34.121377"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "russia",
+			"type": "car",
+			"name": "Катеринівка - Крупець"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "16"
+		}
+	}, {
+		"coordinates": {
+			"lat": "52.183672",
+			"lng": "34.022933"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "russia",
+			"type": "train",
+			"name": "Зернове - Суземка "
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "81"
+		}
+	}, {
+		"coordinates": {
+			"lat": "52.365561",
+			"lng": "33.244088"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "russia",
+			"type": "car",
+			"name": "Грем`яч - Погар"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "13"
+		}
+	}, {
+		"coordinates": {
+			"lat": "52.106347",
+			"lng": "31.781198"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "russia",
+			"type": "car",
+			"name": "Сеньківка-Нові Юрковичі"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "12"
+		}
+	}, {
+		"coordinates": {
+			"lat": "52.110050",
+			"lng": "31.780153"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "belorussia",
+			"type": "car",
+			"name": "Сеньківка - Веселівка"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "11"
+		}
+	}, {
+		"coordinates": {
+			"lat": "52.073231",
+			"lng": "30.971263"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "belorussia",
+			"type": "car",
+			"name": "Нові Яриловичі - Нова Гута"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "8"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.399288",
+			"lng": "30.658212"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "belorussia",
+			"type": "car",
+			"name": "Славутич - Комарин"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "7"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.813808",
+			"lng": "31.152039"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "belorussia",
+			"type": "train",
+			"name": "Щорс-Терехівка"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "80"
+		}
+	}, {
+		"coordinates": {
+			"lat": "52.053042",
+			"lng": "31.152039"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "belorussia",
+			"type": "train",
+			"name": "Горностаївка-Терюха"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "78"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.597018",
+			"lng": "26.153528"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "ukraina",
+			"type": "plane",
+			"name": "Рівне "
+		},
+		"data": {
+			"color": "green",
+			"type": "plane",
+			"id": "66"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.624444",
+			"lng": "32.610473"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "ukraina",
+			"type": "anchor",
+			"name": "Херсонський річковий порт"
+		},
+		"data": {
+			"color": "green",
+			"type": "anchor",
+			"id": "69"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.383432",
+			"lng": "30.087843"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "car",
+			"name": "Маяки-Удобне - Паланка"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "35"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.376570",
+			"lng": "29.986983"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "car",
+			"name": "Старокозаче-Тудора"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "36"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.317314",
+			"lng": "29.003618"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "car",
+			"name": "Серпневе 1-Басараб'яска"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "41"
+		}
+	}, {
+		"coordinates": {
+			"lat": "45.981151",
+			"lng": "28.843939"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "car",
+			"name": "Нові Трояни - Чадир-Лунга "
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "40"
+		}
+	}, {
+		"coordinates": {
+			"lat": "45.726650",
+			"lng": "28.583879"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "car",
+			"name": "Табаки-Мирне"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "39"
+		}
+	}, {
+		"coordinates": {
+			"lat": "45.701643",
+			"lng": "28.538941"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "car",
+			"name": "Виноградівка-Вулкенєшть"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "38"
+		}
+	}, {
+		"coordinates": {
+			"lat": "45.481757",
+			"lng": "28.226580"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "car",
+			"name": "Рені-Джюрджюлешть"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "37"
+		}
+	}, {
+		"coordinates": {
+			"lat": "45.458112",
+			"lng": "28.265632"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "train",
+			"name": "Рені-Джюрджюлешть"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "97"
+		}
+	}, {
+		"coordinates": {
+			"lat": "45.439722",
+			"lng": "28.409167"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "train",
+			"name": "Фрікацей-Етулія"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "98"
+		}
+	}, {
+		"coordinates": {
+			"lat": "47.858566",
+			"lng": "29.293866"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "train",
+			"name": "Слобідка-Ковбасна"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "100"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.736596",
+			"lng": "29.974247"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "moldova",
+			"type": "car",
+			"name": "Кучурган-Первомайськ"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "42"
+		}
+	}, {
+		"coordinates": {
+			"lat": "47.404251",
+			"lng": "29.333717"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "car",
+			"name": "Платонове-Гоянул Ноу"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "43"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.136259",
+			"lng": "28.742513"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "car",
+			"name": "Болган-Хрістова"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "44"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.448652",
+			"lng": "27.779562"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "car",
+			"name": "Могилів-Подільський-Отач"
+		},
+		"data": {
+			"color": "blue",
+			"type": "car",
+			"id": "45"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.454455",
+			"lng": "27.460461"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "train",
+			"name": "Могилів-Подільський-Волчинець"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "101"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.438358",
+			"lng": "27.462117"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "train",
+			"name": "Сокиряни-Окниця"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "102"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.376706",
+			"lng": "27.044878"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "car",
+			"name": "Россошани-Брічень"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "47"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.415122",
+			"lng": "26.842373"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "car",
+			"name": "Кельменці-Ларга"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "48"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.248377",
+			"lng": "28.728291"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Житомирський прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "140"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.264180",
+			"lng": "26.622944"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "moldova",
+			"type": "car",
+			"name": "Мамалига-Крива"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "49"
+		}
+	}, {
+		"coordinates": {
+			"lat": "47.990408",
+			"lng": "26.059641"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "romania",
+			"type": "car",
+			"name": "Порубне-Сірет"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "50"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.252975",
+			"lng": "26.578312"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "train",
+			"name": "Мамалига-Крива"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "104"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.444642",
+			"lng": "26.825407"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "moldova",
+			"type": "train",
+			"name": "Кельменці-Ларга"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "105"
+		}
+	}, {
+		"coordinates": {
+			"lat": "49.531098",
+			"lng": "22.850427"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "poland",
+			"type": "train",
+			"name": "Хирів-Кросьценко"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "111"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.240362",
+			"lng": "28.738679"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "yellow",
+			"name": "Північне регіональне управління Державної прикордонної служби України"
+		},
+		"data": {
+			"color": "yellow",
+			"type": "yellow",
+			"id": "143"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.012908",
+			"lng": "23.007443"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "romania",
+			"type": "train",
+			"name": "Дякове-Халмеу"
+		},
+		"data": {
+			"color": "green",
+			"type": "train",
+			"id": "109"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.312656",
+			"lng": "22.331781"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "hungary",
+			"type": "car",
+			"name": "Дзвінкове - Лонья"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "107"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.229961",
+			"lng": "33.621964"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "crimea",
+			"type": "car",
+			"name": "Чаплинка "
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "32"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.143339",
+			"lng": "33.636077"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "crimea",
+			"type": "car",
+			"name": "Каланчак "
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "34"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.247862",
+			"lng": "22.447088"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "hungary",
+			"type": "car",
+			"name": "Косино - Барабаш"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "108"
+		}
+	}, {
+		"coordinates": {
+			"lat": "47.999108",
+			"lng": "23.002238"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "romania",
+			"type": "car",
+			"name": "Дякове-Халмеу"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "52"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.093498",
+			"lng": "22.835080"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "hungary",
+			"type": "car",
+			"name": "Вилок-Тісабеч"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "53"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.165566",
+			"lng": "22.575035"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "hungary",
+			"type": "car",
+			"name": "Лужанка - Берегшурань"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "54"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.938365",
+			"lng": "31.953664"
+		},
+		"flag": false,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": "ukraina",
+			"type": "anchor",
+			"name": "Mykolaiv river port - Mykolaiv river port"
+		},
+		"data": {
+			"color": "green",
+			"type": "anchor",
+			"id": "68"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.451106",
+			"lng": "30.515057"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "blue",
+			"name": "Адміністрація Державної прикордонної служби  України"
+		},
+		"data": {
+			"color": "blue",
+			"type": "blue",
+			"id": "141"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.533682",
+			"lng": "31.238068"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Чернігівський прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "119"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.760371",
+			"lng": "25.336624"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Луцький прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "139"
+		}
+	}, {
+		"coordinates": {
+			"lat": "49.832239",
+			"lng": "24.049666"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "blue",
+			"name": "Західне регіональне Управління"
+		},
+		"data": {
+			"color": "blue",
+			"type": "blue",
+			"id": "115"
+		}
+	}, {
+		"coordinates": {
+			"lat": "49.919401",
+			"lng": "36.278730"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Харківська окрема авіаційна ескадрилья"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "120"
+		}
+	}, {
+		"coordinates": {
+			"lat": "49.290169",
+			"lng": "38.911113"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Луганський прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "123"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.740224",
+			"lng": "37.592960"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Краматорський прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "122"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.028462",
+			"lng": "36.206918"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Харківський прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "121"
+		}
+	}, {
+		"coordinates": {
+			"lat": "47.052822",
+			"lng": "37.488276"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Донецький прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "124"
+		}
+	}, {
+		"coordinates": {
+			"lat": "47.071192",
+			"lng": "37.517350"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Маріупольський загін морської охорони"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "125"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.779328",
+			"lng": "36.781935"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Бердянський прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "126"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.661527",
+			"lng": "32.656078"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Херсонський Прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "127"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.630468",
+			"lng": "32.617089"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "yellow",
+			"name": "Азово-Чорноморське регіональне управління Державної прикордонної служби України"
+		},
+		"data": {
+			"color": "yellow",
+			"type": "yellow",
+			"id": "118"
+		}
+	}, {
+		"coordinates": {
+			"lat": "45.345748",
+			"lng": "28.826521"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Ізмаїльський прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "131"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.189769",
+			"lng": "30.355226"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Білгород-Дністровський прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "130"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.493099",
+			"lng": "30.731859"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Одеський загін морської охорони"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "129"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.478832",
+			"lng": "30.747497"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "yellow",
+			"name": "Південне регіональне управління Державної прикордонної служби України"
+		},
+		"data": {
+			"color": "yellow",
+			"type": "yellow",
+			"id": "117"
+		}
+	}, {
+		"coordinates": {
+			"lat": "46.405644",
+			"lng": "30.716321"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Одеський прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "128"
+		}
+	}, {
+		"coordinates": {
+			"lat": "50.014627",
+			"lng": "36.222583"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "yellow",
+			"name": "Східне регіональне управління Державної прикордонної служби України"
+		},
+		"data": {
+			"color": "yellow",
+			"type": "yellow",
+			"id": "116"
+		}
+	}, {
+		"coordinates": {
+			"lat": "47.764816",
+			"lng": "29.531722"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Подільський прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "133"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.276772",
+			"lng": "25.945277"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Чернівецький прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "135"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.435175",
+			"lng": "22.721808"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Мукачівський прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "136"
+		}
+	}, {
+		"coordinates": {
+			"lat": "49.800498",
+			"lng": "23.143787"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Мостиський прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "137"
+		}
+	}, {
+		"coordinates": {
+			"lat": "49.839085",
+			"lng": "24.052288"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Львівський прикордонний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "138"
+		}
+	}, {
+		"coordinates": {
+			"lat": "48.432057",
+			"lng": "22.196893"
+		},
+		"flag": true,
+		"camera": false,
+		"filters": {
+			"camera": false,
+			"country": null,
+			"type": "green",
+			"name": "Чопський прикордоний загін"
+		},
+		"data": {
+			"color": "green",
+			"type": "green",
+			"id": "144"
+		}
+	}, {
+		"coordinates": {
+			"lat": "45.992028",
+			"lng": " 34.547295"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "crimea",
+			"type": "car",
+			"name": "Чонгар(Салькове)"
+		},
+		"data": {
+			"color": "blue",
+			"type": "car",
+			"id": "145"
+		}
+	}, {
+		"coordinates": {
+			"lat": "51.188238",
+			"lng": "23.812087"
+		},
+		"flag": false,
+		"camera": true,
+		"filters": {
+			"camera": true,
+			"country": "poland",
+			"type": "car",
+			"name": "Ягодин - Дорогуськ"
+		},
+		"data": {
+			"color": "green",
+			"type": "car",
+			"id": "146"
+		}
+	}],
+	"error": "error"
+}
