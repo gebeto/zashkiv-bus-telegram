@@ -5,16 +5,36 @@ const BufferStream = require('./BufferStream');
 function get(group = 'пз-21з') {
 	const bufferStream = new BufferStream();
 	const filename = 'shedule.png';
-	const url = `http://lpnu.ua/rozklad-dlya-studentiv-zaochnykiv?group=${encodeURI(group)}`;
+	const url = `http://lpnu.ua/parttime_schedule?institutecode_selective=All&edugrupabr_selective=${encodeURI(group)}`;
 	return new Promise((resolve, reject) => {
 		const renderStream = webshot(
-			"http://lpnu.ua/rozklad-dlya-studentiv-zaochnykiv?group=1",
+			url,
 			{
 				shotSize: {
-					width: 1000,
+					width: 1280,
 					height: 'all'
 				},
-				customJS: 'document.body.innerHTML = document.querySelector("article").outerHTML;',
+				customJS: `
+					jQuery('link').remove();
+					document.body.innerHTML = document.querySelector("#block-system-main").outerHTML;
+				`,
+				customCSS: `
+					.group_content {
+					    display: block;
+					    position: relative;
+					}
+
+					.view-grouping-content {
+						display: block;
+						clearfix: both;
+					}
+
+					.view-grouping-content h3 {
+						float: left;
+					}
+					.view-grouping-content .stud_schedule {
+					}
+				`,
 			},
 		);
 		renderStream.on('data', function(data) {
