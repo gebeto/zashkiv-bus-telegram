@@ -39,7 +39,7 @@ function googleStatic(lat, long, params = {}) {
 		size: "1080x1080",
 		markers: `color:red%7C${icon}%7C${lat},${long}`, // color: red | green | blue | yellow
 		maptype: 'hybrid', // roadmap | satelite | hybrid
-		key: 'AIzaSyCAUNuYW4lBjQtErPjmWBewNjK4oVLccp0'
+		key: 'AIzaSyDZGXkPJwVsHo5L1POrsukqkpk0yuGLp4s'
 	}, params))
 }
 
@@ -49,7 +49,7 @@ function googleStreetByLatLong(lat, long) {
 		latlng: `${lat},${long}`,
 		sensor: false,
 		language: 'uk',
-		key: 'AIzaSyCAUNuYW4lBjQtErPjmWBewNjK4oVLccp0',
+		key: 'AIzaSyDZGXkPJwVsHo5L1POrsukqkpk0yuGLp4s',
 	});
 	return fetch(url).then(r => r.json()).then(r => r.results[0]);
 }
