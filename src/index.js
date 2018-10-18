@@ -2,7 +2,7 @@ const { Composer, log } = require('micro-bot')
 
 const { getParams } = require('./Params');
 const { googleStatic } = require('./Google');
-const { busesResponse } = require('./Responder');
+const { busResponse } = require('./Responder');
 const fetchBusesData = require('./BusesDataFetcher').fetchBusesData;
 
 
@@ -28,7 +28,14 @@ bot.on('message', ( ctx ) => {
 		.then(fetchBusesData)
 		.then(busesData => {
 			const params = getParams(ctx.message.text.toLowerCase());
-			busesResponse(ctx, busesData.data.Data, params)
+			console.log(params);
+			const buses = busesData.data.Data;
+			buses.forEach((bus) => {
+				console.log('BUS ----', bus);
+				busResponse(ctx, bus, params)
+					.then(console.log)
+					.catch(console.error);
+			});
 		})
 		.catch(err => {
 			ctx.telegram.sendMessage(ctx.from.id, `Помилка: ${err.message}`);
