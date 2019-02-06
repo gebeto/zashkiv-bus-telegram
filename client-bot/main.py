@@ -1,8 +1,11 @@
 from telethon import TelegramClient, sync, events
+from glob import glob
 import os
 
-import bot_forward
-import bot_action_print
+import importlib
+
+from modules import bot_forward
+from modules import bot_action_print
 
 
 api_id = os.getenv('TG_ID')
@@ -17,16 +20,18 @@ client = TelegramClient('GebetoClient', api_id, api_hash)
 
 
 chats = (
-	# 'gebeto',
+	'gebeto',
 	'podlodka',
-	# 'gebeto_music',
-	# 'simpsons_online',
-	# -1001389649534,
+	'gebeto_music',
+	'simpsons_online',
+	-1001389649534,
 )
 
-
-bot_action_print.main(client, chats)
-bot_forward.main(client, chats)
+for module_path in glob('modules/bot_*.py'):
+	base = os.path.basename(module_path)
+	module, ext = os.path.splitext(base)
+	k = importlib.import_module("modules.{}".format(module))
+	k.__init__(client, chats)
 
 
 client.start()

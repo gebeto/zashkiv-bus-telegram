@@ -1,7 +1,7 @@
 from telethon import events
 
 
-def main(client, chats):
+def __init__(client, chats):
 	new_action_event = events.ChatAction(chats=chats)
 
 	@client.on(new_action_event)
