@@ -10,7 +10,7 @@ if not api_id or not api_hash:
 	print("with data from https://my.telegram.org")
 	exit(0)
 
-client = TelegramClient('HappyNewYear', api_id, api_hash)
+client = TelegramClient('GebetoClient', api_id, api_hash)
 
 
 chats = (
