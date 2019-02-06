@@ -1,6 +1,9 @@
 from telethon import TelegramClient, sync, events
 import os
 
+import bot_forward
+import bot_action_print
+
 
 api_id = os.getenv('TG_ID')
 api_hash = os.getenv('TG_HASH')
@@ -21,20 +24,9 @@ chats = (
 	# -1001389649534,
 )
 
-# new_message_event = events.NewMessage(chats=chats)
-new_action_event = events.ChatAction(chats=chats)
 
-
-# @client.on(new_message_event)
-# async def handler_message(event):
-# 	print(event)
-# 	await event.message.forward_to(-1001389649534)
-
-@client.on(new_action_event)
-async def handler_action(event):
-	# print("ChatAction", event, event.as_dict())
-	print("ChatAction", event)
-	print("ACTION", dir(event))
+bot_action_print.main(client, chats)
+bot_forward.main(client, chats)
 
 
 client.start()
