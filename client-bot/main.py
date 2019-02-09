@@ -19,13 +19,14 @@ if not api_id or not api_hash:
 client = TelegramClient('GebetoClient', api_id, api_hash)
 
 
-chats = (
-	'gebeto',
-	'podlodka',
-	'gebeto_music',
-	'simpsons_online',
-	-1001389649534,
-)
+# chats = (
+# 	'gebeto',
+# 	'podlodka',
+# 	'gebeto_music',
+# 	'simpsons_online',
+# 	-1001389649534,
+# )
+chats = None
 
 for module_path in glob('modules/bot_*.py'):
 	base = os.path.basename(module_path)
@@ -35,4 +36,10 @@ for module_path in glob('modules/bot_*.py'):
 
 
 client.start()
+
+client.connect()
+if not client.is_user_authorized():
+    client.send_code_request(phone_number)
+    me = client.sign_in(phone_number, input('Enter code: '))
+
 client.run_until_disconnected()
