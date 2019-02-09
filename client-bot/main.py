@@ -37,9 +37,9 @@ for module_path in glob('modules/bot_*.py'):
 
 client.start()
 
-client.connect()
-if not client.is_user_authorized():
-    client.send_code_request(phone_number)
-    me = client.sign_in(phone_number, input('Enter code: '))
+# client.connect()
+# if not client.is_user_authorized():
+#     client.send_code_request(phone_number)
+#     me = client.sign_in(phone_number, input('Enter code: '))
 
 client.run_until_disconnected()
