@@ -20,26 +20,20 @@ bot.start(({ reply }) => reply('Hey there!'));
 bot.command('help', ({ reply }) => reply('Help message'));
 bot.command('about', ({ reply }) => reply('About message'));
 
-bot.on('message', ( ctx ) => {
-	ctx.replyWithMarkdown('Зачекайте будь ласка.')
-		// .then((res) => {
-		// 	checkDeveloper(ctx)
-		// })
-		.then(fetchBusesData)
-		.then(busesData => {
-			const params = getParams(ctx.message.text.toLowerCase());
-			console.log(params);
-			const buses = busesData.data.Data;
-			buses.forEach((bus) => {
-				console.log('BUS ----', bus);
-				busResponse(ctx, bus, params)
-					.then(console.log)
-					.catch(console.error);
-			});
-		})
-		.catch(err => {
-			ctx.telegram.sendMessage(ctx.from.id, `Помилка: ${err.message}`);
-		});
+bot.on('message', async ( ctx ) => {
+	const replyMessage = await ctx.replyWithMarkdown('Зачекайте будь ласка.');
+	const busesData = await fetchBusesData();
+	const params = getParams(ctx.message.text.toLowerCase());
+	const buses = busesData.data.Data;
+	buses.forEach(async (bus) => {
+		try {
+			const res = await busResponse(ctx, bus, params);
+			console.log(res);
+		} catch(err) {
+			await ctx.replyWithMarkdown(err);
+		}
+	});
+	// ctx.telegram.sendMessage(ctx.from.id, `Помилка: ${err.message}`);
 });
 
 

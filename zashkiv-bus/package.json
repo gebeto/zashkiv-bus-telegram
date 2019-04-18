@@ -8,7 +8,7 @@
   },
   "main": "src/index.js",
   "scripts": {
-    "dev": "micro-bot -t $BOT_TOKEN -d 742e5c64.ngrok.io -p 5000 src/index.js",
+    "dev": "micro-bot -d afc5c1ec.ngrok.io -p 5000 src/index.js",
     "start": "micro-bot -t $BOT_TOKEN src/index.js",
     "now-start": "micro-bot -d ${NOW_URL}"
   },
