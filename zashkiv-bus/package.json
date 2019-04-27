@@ -9,6 +9,7 @@
   "main": "src/index.js",
   "scripts": {
     "test": "jest",
+    "test-dev": "jest --watch",
     "dev": "micro-bot -d d4feb2f5.ngrok.io -p 5000 src/index.js",
     "start": "micro-bot -t $BOT_TOKEN src/index.js",
     "now-start": "micro-bot -d ${NOW_URL}"
@@ -21,7 +22,8 @@
   "dependencies": {
     "jest": "^24.7.1",
     "micro-bot": "^2.2.2",
-    "node-fetch": "^2.1.1"
+    "node-fetch": "^2.1.1",
+    "node-html-parser": "^1.1.15"
   },
   "devDependencies": {}
 }
