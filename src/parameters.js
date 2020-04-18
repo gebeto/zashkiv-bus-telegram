@@ -17,6 +17,4 @@ function getParams(text) {
 }
 
 
-module.exports = {
-	getParams: getParams
-};
+exports.getParams = getParams;

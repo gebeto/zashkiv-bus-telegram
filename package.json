@@ -1,29 +1,25 @@
 {
   "name": "zashkiv-bus",
-  "version": "0.1.0",
-  "description": "Zashkiv bus bot",
+  "version": "1.0.0",
+  "description": "Zashkiv bus telegram bot",
   "repository": {
-    "url": "gebeto/telegram-bots/zashkiv-bus",
+    "url": "gebeto/zashkiv-bus-telegram",
     "type": "git"
   },
-  "main": "src/index.js",
   "scripts": {
     "test": "jest",
     "test-dev": "jest --watch",
-    "dev": "micro-bot -d d4feb2f5.ngrok.io -p 5000 src/index.js",
-    "start": "micro-bot -t $BOT_TOKEN src/index.js",
-    "now-start": "micro-bot -d ${NOW_URL}"
-  },
-  "engines": {
-    "node": ">=8.5.0"
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
   },
   "author": "gebeto <slavik.nychkalo@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jest": "^24.7.1",
-    "micro-bot": "^2.2.2",
     "node-fetch": "^2.1.1",
-    "node-html-parser": "^1.1.15"
+    "node-html-parser": "^1.1.15",
+    "telegraf": "^3.37.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
 }

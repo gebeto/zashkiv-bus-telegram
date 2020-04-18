@@ -2,14 +2,11 @@
 
 ## env
 
-### OPENCAGE_KEY
-Key from [https://opencagedata.com/dashboard](https://opencagedata.com/dashboard)
-
 ### BOT_TOKEN
 Telegram bot token
 
 ```sh
-$ export OPENCAGE_KEY=API_KEY
+$ export BOT_TOKEN=TOKEN
 ```
 
 
