@@ -12,7 +12,9 @@ const Telegraf = require('telegraf');
 // const bot = new TelegramBot(process.env.BOT_TOKEN);
 // bot.setWebHook(process.env.NOW_URL);
 const bot = new Telegraf(process.env.BOT_TOKEN);
-bot.telegram.setWebhook(process.env.WEBHOOK_URL);
+bot.telegram.setWebhook(process.env.WEBHOOK_URL)
+	.then(res => console.log('WebHook is setted:', res))
+	.catch(err => console.error(err));
 
 // bot.use(checkDeveloper);
 bot.start(({ reply }) => reply("Hey there!"));
